@@ -1,0 +1,114 @@
+.navbar{
+    height:80px;
+    background-color:#000000;
+    color:white;
+    display:flex;
+    background-size:cover;
+    align-items:center;
+}
+
+.nav-logo{
+    height:80px;
+    width:100px;
+}
+
+.logo{
+    background-image:url("download.png");
+    background-size:cover;
+    height:80px;
+    width:100%;
+}
+
+.border{
+    border:2px solid transparent;
+}
+
+.border:hover{
+    border:1.5px solid white;
+}
+
+.nav-adress{
+    height:30px;
+    width:80px;
+    align-items:center;
+    background-size:cover;
+}
+
+.add-first{
+color:#cccccc;
+    font-size:0.5rem;
+    margin-left:15px;
+}
+
+.add-sec{
+    margin:top:-30px;
+}
+
+.add-icon{
+    display:flex;
+    align-items:center;
+}
+
+nav-adress:hover{
+   background-color:1.5px solid white;    
+}
+
+.nav-search{
+    display:flex;
+    justify-content:spacely-evenly;
+    background-color:pink;
+    width:420px;
+    heigth:40px;
+    border-radius:5px;
+}
+
+.search-select{
+    background-color:#f3f3f3;
+    border-top-left-radius:5px;
+    border-bottom-left-radius:5px;
+}
+
+.search-input{
+    width:450px;
+    
+}
+
+.panel1{
+    height:60px;
+    background-color:#0c0e18;
+    color:white;
+    display:flex; 
+    align-items:center;
+    justify-content: space-around;
+    
+}
+
+.panel1:hover{
+    border:2px solid #d9edd9;
+}
+
+.panel-opt p {
+    height:30px;
+    width:100%hw;
+    margin-left: 15px;
+    display:inline;
+     
+}
+
+.panel-opt{
+    width:70%;
+   font-size: 0.5rem;
+}
+
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700px;
+}
+
+.hero-section{
+    background-image: url("charan.jpg");
+    height:500px;
+    background-size:cover;
+    background-image: url("charan.jpg");
+}
+
